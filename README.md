@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kstinanguyen
 - 👀 I’m interested in learning more about different programming languages available, mainly JavaScript and Python! 
-- 🌱 I’m currently learning a variety of different languages such as HTML, CSS, JavaScript (JQuery), Python, and Ruby. I would love to continue learning these languages and be well-versed in them for full-stack development!
+- 🌱 I’m an aspiring front-end developer, and I'm currently learning a variety of different languages such as HTML, CSS, JavaScript (JQuery), Python, and Ruby. I would love to continue learning these languages and be well-versed in them.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
